@@ -14,7 +14,7 @@ You include this module in your files using `const path = require('path');` and 
 
 ## Getting information out of a path
 
-Given a path, you can extract information out of it using those methods:
+Given a path, you can extract information out of it using these methods:
 
 * `dirname`: gets the parent folder of a file
 * `basename`: gets the filename part
